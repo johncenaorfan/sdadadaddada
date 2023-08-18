@@ -1,0 +1,5 @@
+testtttttt
+lscpu
+wget -g
+apt update
+apt update -y
